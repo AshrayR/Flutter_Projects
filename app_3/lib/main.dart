@@ -5,8 +5,8 @@ void main() {
 }
 
 class MyApp extends StatelessWidget { MyApp({super.key});
-
-List names = ["Mitch", "Sharon", "Vince"];
+  
+  List names = ["Mitch", "Sharon", "Vince"];
 
   @override
   Widget build(BuildContext context) {
