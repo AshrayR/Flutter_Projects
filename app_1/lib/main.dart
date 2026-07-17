@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.blue.shade300,
+        backgroundColor: Colors.green.shade300,
         appBar: AppBar(
           title: Text("My App", style: TextStyle(color: Colors.white),),
           centerTitle: true,
